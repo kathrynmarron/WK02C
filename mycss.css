@@ -1,0 +1,17 @@
+
+
+div[class*="row"] {
+    border: thin solid blue; 
+}
+div[class*="col-"] {
+    border: thin solid red; 
+}
+
+.bk {
+    background-color: black;
+    color: white;
+}
+
+.mycontent{
+    width: 80%;
+}
